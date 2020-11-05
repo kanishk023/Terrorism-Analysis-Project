@@ -1,2 +1,2 @@
 # Terrorism-Analysis-Project
-Terrorism Analysis and Finding Insights
+Building a Terrorism Analysis and Finding Insights Project
